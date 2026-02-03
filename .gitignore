@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.claude/
+AGENTS.md
+CLAUDE.md
+
+vk-post-parser
+images/
+posts.json
+.vk-parser-progress.json
+*.tmp
